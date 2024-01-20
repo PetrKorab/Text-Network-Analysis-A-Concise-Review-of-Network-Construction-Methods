@@ -1,8 +1,8 @@
+1. Building a network from the raw text data
+
 python==3.9
 textnets==0.6.0
 spacy==3.7.2
 
 download in the terminal:
 python -m spacy download en_core_web_sm
-
-
